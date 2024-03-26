@@ -1,0 +1,19 @@
+{
+  "name": "cli-number-guessing-1",
+  "version": "1.0.0",
+  "description": "A cli based number-guessing game.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Barqa",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
